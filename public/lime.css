@@ -1,0 +1,8 @@
+:root {
+  --test-palette-primary-main: rgb(63, 228, 151);
+  --test-palette-primary-light: rgb(77, 240, 164);
+  --test-palette-primary-dark: rgb(55, 212, 139);
+  --test-palette-background-default: rgb(35, 116, 78);
+  --test-font-family: var(--font-cedarville);
+  --test-button-font-size: 18px;
+}

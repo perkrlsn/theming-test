@@ -1,0 +1,7 @@
+:root {
+  --test-palette-primary-main: rgb(255, 105, 180);
+  --test-palette-primary-light: rgb(255, 111, 183);
+  --test-palette-primary-dark: rgb(252, 98, 175);
+  --test-palette-background-default: rgb(124, 45, 85);
+  --test-font-family: var(--font-poppins);
+}
